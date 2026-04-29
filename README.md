@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu me chamo Gabriel Munhak
 
-<!--
-**gabriel-munhak/gabriel-munhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um Desenvolvedor Front-End apaixonado por criar interfaces modernas, performáticas e bem estruturadas. Ao todo já acumulo mais de 4 anos de experiência profissional e acadêmica, estudando e melhorando cada vez mais a qualidade do meu código e das tasks que entrego.
 
-Here are some ideas to get you started:
+Tenho familiariadade em ambientes que trabalham com Metodologias Ágeis e sou apaixonado pelo o que faço. Sou esforçado e sempre dou o meu melhor, gosto de superar meus limites e descobrir coisas novas, por isso, coleciono recomendações e certificados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- Formação em ADS pela ETEC João Belarmino;
+- Especializado em Engenharia Front-End pela EBAC;
+- Cursando Engenharia de Software na Estacio;
+- Focado em desenvolvimento web moderno;
+- Buscando oportunidades como Desenvolvedor Front-End.
+
+## 🛠️ Um pouco da minha stack
+
+- **Front-end:** React, HTML5, Next.js, JavaScript, TypeScript, Axios;
+- **Estilização:** CSS5, Sass, Styled-components, Tailwind;
+- **Ferramentas:** Git, GitHub, Figma, VS Code;
+- **Metodologias Ágeis:** Scrum e Kanban;
+- **Outros:** APIs REST, Responsividade, SEO básico.
+
+## 📈 O que você pode esperar de mim
+
+- Código limpo e bem organizado;
+- Boas práticas de desenvolvimento;  
+- Interfaces otimizadas e responsivas;
+- Compromisso com aprendizado contínuo.
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-munhak/
+- Email: gabrielmunhak1334@hotmail.com
